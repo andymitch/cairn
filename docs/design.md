@@ -118,7 +118,7 @@ Windows and Linux builds have no equivalent cost.
 - Learning only from what's new since the last run.
 - Session digests: the conversation without tool output, capped in size, only from the project's folders, and never learning personal matters that aren't about the work.
 - Asking: local first, then the agent, with steps shown and sources linked.
-- The triage list: only agent facts and changed facts, with Looks right and Wrong.
+- Triage only for what the agent can't settle itself, with Looks right and Wrong. Learning replaces, confirms and rejects facts in the background whenever a source settles them, and flags a fact with a one-line reason only when it can't tell.
 - Meeting capture and on-device transcription.
 - Signed self-updates.
 
