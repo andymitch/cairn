@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Cairn: three stacked stones">
+  <g fill="#8B929C">
+    <ellipse cx="256" cy="402" rx="176" ry="60"/>
+    <ellipse cx="256" cy="282" rx="124" ry="48"/>
+    <ellipse cx="256" cy="184" rx="78" ry="38"/>
+  </g>
+</svg>
