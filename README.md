@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.svg" alt="Cairn logo: three stacked stones" width="128"></p>
+
 # Cairn
 
 A cairn is a stack of stones that marks the trail for whoever comes next.
